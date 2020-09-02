@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #8b8989;
+}
+.logo{
+    height: 60px;
+    padding: 2px 2px; 
+ 
+
+}
+.container{
+ 
+    display: inline-block;
+    
+}
+.navbar-header a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Rufina', serif;
+    color:black;
+}
+.navbar-nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    padding: 16px 35px;
+}
