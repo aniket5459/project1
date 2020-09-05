@@ -32,3 +32,6 @@ img{
  a:hover{
     text-decoration: none;
 }
+button:hover{
+    background-color: rgb(59, 58, 58);
+}

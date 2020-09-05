@@ -61,3 +61,6 @@ img{
 .social a i{
     padding: 8px 0;
 }
+button:hover{
+    background-color: rgb(59, 58, 58);
+}
