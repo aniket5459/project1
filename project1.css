@@ -3,11 +3,13 @@
     margin:0;
 
 }
-.header{
-    height: 100vh;
+.navbar{
+    margin-bottom:0px !important; 
 }
+
 .navbar-style{
     box-shadow: 0 5px 10px #8b8989;
+    text-transform: uppercase;
 }
 .logo{
     height: 60px;
@@ -17,18 +19,113 @@
 }
 .container{
  
-    display: inline-block;
+ display: inline-block;
     
 }
+
 .navbar-header a {
     text-decoration: none;
     font-size: 30px;
     font-family: 'Rufina', serif;
     color:black;
+    padding-top:3px -1px;
+}
+.container a:hover {
+    color:black;
+
 }
 .navbar-nav a{
     text-decoration: none;
     font-size: 20px;
     color:black;
     padding: 16px 35px;
+    font-family: 'Rufina', serif;
+}
+
+navbar-nav li a{
+    color:black;
+ }
+
+navbar-nav li a:hover{
+    color:black;
+   
+}
+.img-style{
+   margin-top:40px;
+  
+}
+.size{
+margin-left: 12px;
+font-size: 20px;
+color:black;
+font-family: 'Rufina', serif;
+font-weight: bold;
+}
+.middle img{
+    width:460px;
+}
+.middle{
+    background-image: url(https://pixeleight.in/wp-content/uploads/2018/12/Abstract-Light-Background.png) ;
+    background-size: cover;
+
+}
+footer h1{  
+
+    display: inline-block;
+    font-size: 223%;
+    margin: 100px 102px;
+    border:2px solid white;
+    border-radius: 23px;
+    padding:8px 36px;
+    font-family: 'Source Serif Pro', serif;
+    text-align: auto;
+    color:white;
+    }
+.end{
+
+        background-image: url(https://i.pinimg.com/originals/2a/c5/8c/2ac58ca3c5e1d553148f12ba1d7a38e8.jpg);
+        font-family: 'Source Serif Pro', serif;
+        text-align: center;
+        background-size: cover;
+        
+        
+        }
+.fab {
+            color:white;
+            text-decoration: none;
+            font-size: 50px;
+            margin:14px 46px;
+            
+    }
+    
+.far{
+color:white;
+text-decoration: none;
+font-size: 50px;
+margin: 9px 48px;
+}
+.para{
+    color:rgb(53, 232, 238);
+    margin-top:-54px;;
+    font-size:25px;
+}                 
+.details a:hover{
+    text-decoration: none;
+    color:white;
+}
+.button{
+    font-size: 223%;
+    margin: 34px 135px;
+    border: 2px solid white;
+    border-radius: 23px;
+    padding: 8px 36px;
+    font-family: 'Source Serif Pro', serif;
+    color:white;
+    background-color: transparent;
+    box-shadow: 5px 5px 3px rgb(43, 39, 39);
+
+}
+.imgright{
+    margin-top: 94px;
+    margin-left: 72px;
 }

@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+body{
+     background-image: url(https://media.gettyimages.com/videos/dim-light-at-night-video-id1195566347?s=640x640);
+     background-size: cover;
+ } 
+ .rightside{
+    padding:113px 52px !important; 
+    background-color: rgb(150, 184, 184);
+    border-top-right-radius: 27px;
+    border-bottom-right-radius: 27px;
+} 
+ 
+img{
+    
+    border-bottom-left-radius: 27px;
+    border-top-left-radius: 27px;
+}
+.btn1{
+    margin:16px 1px;
+    padding: 5px 103px;
+    border-radius: 25px;
+    box-shadow: 2px 4px 2px white;
+    background-color: black;
+    color: white;
+
+}
+ a:hover{
+    text-decoration: none;
+}
+.social{
+    margin-top:5%;
+    text-align: center;
+
+}
+.social a{
+    width:30px;
+    height:30px;
+    display: inline-block;
+    border:1px solid #fff;
+    border-radius: 50%;
+    margin:0 5px;
+    color:white
+
+}
+.social a:nth-child(1){
+    background: #3b5998;
+}
+.social a:nth-child(2){
+    background: #55acee;
+}
+.social a:nth-child(3){
+    background: #bd0817;
+}
+.social a:nth-child(4){
+    background: #0077b5;
+}
+.social a i{
+    padding: 8px 0;
+}
